@@ -1,0 +1,6 @@
+pip install plotly
+pip install pandas
+pip install streamlit
+pip install nbformat
+
+conda env create --name vehicles_env --file requirements.txt 
